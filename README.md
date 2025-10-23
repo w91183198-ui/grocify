@@ -1,2 +1,4 @@
 # grocify
 Week06, day-2 task
+
+## FOR SOME REASON THE BACK-GROUND IMAGE DOES NOT WORK FOR ME
